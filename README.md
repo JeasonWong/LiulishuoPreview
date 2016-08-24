@@ -5,6 +5,16 @@ Imitate Liulishuo guide view.
 
 ![Markdown](https://raw.githubusercontent.com/jeasonwong/LiulishuoPreview/master/screenshots/liulishuo.gif)
 
+### About Me
+
+[Weibo](http://weibo.com/WongYuwei)
+
+[Blog](http://www.wangyuwei.me)
+
+### Group
+
+**479729938**
+
 ##**License**
 
 ```license
